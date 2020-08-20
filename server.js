@@ -50,4 +50,4 @@ message.channel.send(embed);
   }
 });
 
-client.login('NzA4MzQ5Nzc4NzQzNzg3NTIw.XrWEIw.aUwTWF07YRqT1RFdF6QhiyY3UsY');
+client.login('NzA4MzQ5Nzc4NzQzNzg3NTIw.XrWEIw.2epdHbkXhKKXA_KACgJ5D4QaCL0');
